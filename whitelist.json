@@ -1,19 +1,26 @@
 {
-  "WhitelistedUsers": {
-    "1144048526691680267": {
+  "WhitelistedUsers": [
+    {
       "hash": "8d2407c4f9e1f0a76818d4002043515b052dcf6e8d1a04f328ab1d5b0bf49d85b295de73bf472d3d2d7ee6aa35ede23f7323d75cc3bafc008b29fe2f0e111392",
       "attackable": false,
-      "level": 1,
+      "level": 1000,
       "tags": [
         {
-          "text": "OWNER",
+          "text": "Moon Owner",
           "color": [
             255,
-            215,
+            255,
             0
           ]
         }
       ]
     }
-  }
+  ],
+  "BlacklistedUsers": [],
+  "Announcement": {
+    "text": "",
+    "expiretime": 0,
+    "targets": "all"
+  },
+  "KillVape": false
 }
