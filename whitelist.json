@@ -9,7 +9,22 @@
           "text": "Moon Owner",
           "color": [
             255,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "hash": "f594ee14dfcc37fb8c0904136b3f688c6cfafc7d14c707e86570d0dac559fc15",
+      "attackable": false,
+      "level": 999,
+      "tags": [
+        {
+          "text": "ChaosSploit Owner",
+          "color": [
             255,
+            0,
             0
           ]
         }
